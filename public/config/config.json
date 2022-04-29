@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFcf1b3b74a0e9A4fa401837D2995b563cEf4Dd40",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xfcf1b3b74a0e9a4fa401837d2995b563cef4dd40",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Slow Turtles NFT",
+  "SYMBOL": "SlowTurtle",
+  "MAX_SUPPLY": 333,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.8,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/slowturtles-v4",
+  "SHOW_BACKGROUND": true
+}
